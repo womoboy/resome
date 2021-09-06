@@ -1,1 +1,2 @@
+-download resome from github
 -click on resome.html
